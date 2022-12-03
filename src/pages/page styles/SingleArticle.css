@@ -1,0 +1,30 @@
+
+.article-body {
+  max-width: 860px;
+
+  font-family: "Poppins", sans-serif;
+  height: fit-content;
+}
+
+
+
+
+.article-body h2 {
+  font-size: 32px;
+  margin-bottom: 4px;
+  font-weight: 700;
+}
+
+.article-body span {
+  color: rgb(155, 155, 255);
+  font-weight: 700;
+  font-style: italic;
+  font-size: 16px;
+}
+
+.article-body h3 {
+  font-weight: 400;
+  color: grey;
+  margin-bottom: 20px;
+  font-size: 12px;
+}

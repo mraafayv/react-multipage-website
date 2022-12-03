@@ -1,0 +1,21 @@
+.container {
+    /* width: 90vw; */
+    height: 350px; 
+    text-align: center;
+    background-color: rgb(226, 226, 226);
+    border-radius: 8px;
+}
+
+.container .content {
+    padding: 1.3rem;
+}
+
+
+.container h2 {
+    font-size: 4rem;
+}
+
+.container p {
+    font-size: 2.5rem;
+    color: rgb(151, 151, 151);
+}
